@@ -2,7 +2,7 @@
     "app_id": "lms.meihleurlearningsolutions.com",
     "appname": "Moodle1 Mobile1",
     "desktopappname": "Moodle Desktop",
-    "versioncode": 3900,
+    "versioncode": 3700,
     "versionname": "3.8.0",
     "cache_update_frequency_usually": 420000,
     "cache_update_frequency_often": 1200000,
